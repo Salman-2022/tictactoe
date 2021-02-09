@@ -47,7 +47,7 @@ You may also want to install the manual pages that includes documentation about 
 
 Output:
 
-```bash
+```python
    gcc (Debian 10.2.1-6) 10.2.1 20210110
    Copyright (C) 2020 Free Software Foundation, Inc.
    This is free software; see the source for copying conditions.  There is NO
