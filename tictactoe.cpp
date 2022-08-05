@@ -124,7 +124,7 @@ int main()
         cout << "\t\t\t█▄▄ █▄█ █░▀█ █▄█ █▀▄ █▀█ ░█░ █▄█ █▄▄ █▀█ ░█░ █ █▄█ █░▀█ ▄█" << endl;
         cout << endl;
         cout << "                                       "
-             << "Pʟᴀʏᴇʀ 2 [O] ɪs Wɪɴɴᴇʀ" << endl;
+             << "Pʟᴀʏᴇʀ (2) [O] ɪs Wɪɴɴᴇʀ" << endl;
     }
     else if (turn == 'O' && draw == false)
     {
